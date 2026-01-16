@@ -44,12 +44,12 @@ const abrar = {
 
 ## GitHub Stats
 
- 
-<img width="49%" src="https://streak-stats.demolab.com?user=abrar840&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-
-<br><br>
-
- 
+<a href="https://github.com/abrar840">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abrar840&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/abrar840">
+  <img width="49%" src="https://streak-stats.demolab.com?user=abrar840&theme=radical&hide_border=true&background=0D1117" />
+</a>
 
 </div>
 
