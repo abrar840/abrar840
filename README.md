@@ -57,16 +57,6 @@ const abrar = {
 
 <div align="center">
 
-## Contribution Graph
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrar840&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
