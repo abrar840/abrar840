@@ -19,7 +19,8 @@
 
 I'm a full-stack developer working across the JavaScript and Python ecosystems. I build web applications end to end — from responsive frontends in React to robust backend services and databases. I care about clean, maintainable code and I'm always exploring new tools to sharpen my craft.
 
-- Currently focused on building and shipping full-stack products
+- Currently learning **RAG (Retrieval-Augmented Generation)** and building LLM-powered applications with **Python** and **FastAPI**
+- Focused on building and shipping full-stack products
 - Comfortable owning features from database schema to pixel-perfect UI
 - Open to interesting projects and collaboration
 
@@ -35,10 +36,20 @@ I'm a full-stack developer working across the JavaScript and Python ecosystems. 
 
 **Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**AI & LLM (learning)**
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-8A2BE2?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Vector Databases](https://img.shields.io/badge/Vector_DBs-Chroma_·_Pinecone-FF6F61?style=flat-square)
 
 **Databases**
 
@@ -65,8 +76,8 @@ I'm a full-stack developer working across the JavaScript and Python ecosystems. 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abrar840&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Abrar's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar840&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abrar840&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Abrar's GitHub stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrar840&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" height="165" />
 
 </div>
 
