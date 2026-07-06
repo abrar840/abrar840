@@ -1,22 +1,56 @@
-# Hi, I'm Abrar
+<div align="center">
 
-**Full-Stack Developer** — JavaScript · TypeScript · Python
+# Abrar
 
-<!-- TODO: add your real links below (LinkedIn URL, email, portfolio) -->
-[LinkedIn](#) · [Email](mailto:your.email@example.com) · [Portfolio](#)
+### Full-Stack Developer
+
+**JavaScript · TypeScript · Python**
+
+<!-- TODO: add your real LinkedIn and portfolio URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abrarhameed911@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white)](#)
+
+</div>
+
+---
 
 ## About
 
-I'm a full-stack developer working across the JavaScript and Python ecosystems. I build web applications end to end — from responsive frontends in React to robust backend services and databases. I care about clean, maintainable code and I'm always exploring new tools and technologies to sharpen my craft.
+I'm a full-stack developer working across the JavaScript and Python ecosystems. I build web applications end to end — from responsive frontends in React to robust backend services and databases. I care about clean, maintainable code and I'm always exploring new tools to sharpen my craft.
+
+- Currently focused on building and shipping full-stack products
+- Comfortable owning features from database schema to pixel-perfect UI
+- Open to interesting projects and collaboration
 
 ## Tech Stack
 
-| Area | Technologies |
-|------|--------------|
-| **Frontend** | React, Vue, Next.js, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express, Django, Flask |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Tools & DevOps** | Git, Docker, VS Code |
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## Featured Projects
 
@@ -29,9 +63,17 @@ I'm a full-stack developer working across the JavaScript and Python ecosystems. 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abrar840&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Abrar's GitHub stats" width="55%" />
+<div align="center">
 
-## Get in Touch
+<img src="https://github-readme-stats.vercel.app/api?username=abrar840&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Abrar's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar840&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" height="165" />
 
-<!-- TODO: same links as the header -->
-The best way to reach me is via [LinkedIn](#) or [email](mailto:your.email@example.com). I'm open to interesting projects and opportunities.
+</div>
+
+---
+
+<div align="center">
+
+The best way to reach me is via [LinkedIn](#) or [email](mailto:abrarhameed911@gmail.com).
+
+</div>
