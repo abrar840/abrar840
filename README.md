@@ -1,15 +1,13 @@
 <div align="center">
 
-# Abrar
+# Abrar Ahmed
 
-### Full-Stack Developer
+### Software Engineer · Full-Stack & Backend · moving into AI Engineering
 
-**JavaScript · TypeScript · Python**
+**TypeScript · Python · PHP**
 
-<!-- TODO: add your real LinkedIn and portfolio URLs -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrar-ahmed-b93a5b30b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abrarhameed911@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
@@ -17,60 +15,70 @@
 
 ## About
 
-I'm a full-stack developer working across the JavaScript and Python ecosystems. I build web applications end to end — from responsive frontends in React to robust backend services and databases. I care about clean, maintainable code and I'm always exploring new tools to sharpen my craft.
+Software engineer in Lahore with a year of professional experience building full-stack applications, REST APIs and data-processing pipelines. I have shipped features for multi-tenant SaaS products, traced silent data-loss bugs to their root cause, and turned slow pages into fast ones with real numbers to show for it.
 
-- Currently learning **RAG (Retrieval-Augmented Generation)** and building LLM-powered applications with **Python** and **FastAPI**
-- Focused on building and shipping full-stack products
-- Comfortable owning features from database schema to pixel-perfect UI
-- Open to interesting projects and collaboration
+- **Now:** building a **Retrieval-Augmented Generation (RAG)** legal assistant end to end: section-aware chunking of a national legal code, vector search in **PostgreSQL (pgvector)**, a **FastAPI** service and a **React** client, deployed on **Render** and **Vercel**
+- **Stack I work in daily:** TypeScript / React on the front, Python (FastAPI) and Laravel on the back, PostgreSQL and Redis underneath
+- **How I work:** AI-assisted development with Claude Code and Cursor, with every generated change reviewed and tested before it ships
+- **Open to:** backend, full-stack and junior AI engineering roles
 
 ## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-**Backend**
+**Backend & APIs**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**AI & LLM (learning)**
-
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-8A2BE2?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Vector Databases](https://img.shields.io/badge/Vector_DBs-Chroma_·_Pinecone-FF6F61?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0B5FFF?style=flat-square)
+![Auth](https://img.shields.io/badge/Auth-SSO_·_JWT_·_RBAC-444444?style=flat-square)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_(pgvector)-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools & DevOps**
+**AI & LLM**
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-8A2BE2?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_Embeddings-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## Featured Projects
 
-<!-- TODO: replace these placeholders with 2-3 of your strongest repos.
-     Format: **[repo-name](https://github.com/abrar840/repo-name)** — one-line description of what it does and its impact. -->
-
-- **[project-one](#)** — Short description of what it does and why it matters.
-- **[project-two](#)** — Short description of what it does and why it matters.
-- **[project-three](#)** — Short description of what it does and why it matters.
+- **Legal Q&A Assistant (RAG)** · *in progress, repo goes public with v1* — Section-aware ingestion of a national legal code (634 sections, validated against every section number), Gemini embeddings stored in Supabase pgvector, cited answers from a FastAPI service, React client. API on Render, client on Vercel.
+  <!-- TODO: add the live Vercel URL here once v1 answers with citations -->
+- **[transpoflow](https://github.com/abrar840/transpoflow)** — Multi-tenant SaaS transport management system (Laravel, Livewire, MySQL): role-based access control, normalized schema, admin dashboards. Final year project.
+- **[BlogApp](https://github.com/abrar840/BlogApp)** — Blogging app built with React, Inertia.js and Laravel.
 
 ## GitHub Stats
 
@@ -85,6 +93,6 @@ I'm a full-stack developer working across the JavaScript and Python ecosystems. 
 
 <div align="center">
 
-The best way to reach me is via [LinkedIn](#) or [email](mailto:abrarhameed911@gmail.com).
+The best way to reach me is via [LinkedIn](https://www.linkedin.com/in/abrar-ahmed-b93a5b30b) or [email](mailto:abrarhameed911@gmail.com).
 
 </div>
