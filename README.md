@@ -70,7 +70,7 @@ I use **Claude Code** and **Cursor** daily, and every generated change is review
 |---|---|---|
 | **Legal Q&A Assistant (RAG)** · *in progress* | Python, FastAPI, Supabase pgvector, Gemini, Groq, React | Ingestion pipeline for a national legal code (634 sections, validated against every section number), vector retrieval, cited answers. Evaluation set and refusal handling next. |
 | **[transpoflow](https://github.com/abrar840/transpoflow)** | Laravel, Livewire, MySQL | Multi-tenant SaaS transport management: role-based access control, normalized schema, admin dashboards. Final year project. |
-| **[BlogApp](https://github.com/abrar840/BlogApp)** | React, Inertia.js, Laravel | Blogging application with a React front end served through Inertia. |
+| **[kanban-project](https://github.com/abrar840/kanban-project)** | FastAPI, SQLAlchemy, MySQL, Alembic, React, Vite, Tailwind | Full-stack Kanban board: boards, columns and tasks with drag-and-drop, JWT authentication, migrations, and a charts view. |
 | **[netflixui](https://github.com/abrar840/netflixui)** · [live](https://netflixui-tau.vercel.app) | HTML, CSS | Recreation of the Netflix landing page, responsive across 14 breakpoints. An early layout exercise. |
 
 ## Education
