@@ -79,6 +79,7 @@ Software engineer in Lahore with a year of professional experience building full
   <!-- TODO: add the live Vercel URL here once v1 answers with citations -->
 - **[transpoflow](https://github.com/abrar840/transpoflow)** — Multi-tenant SaaS transport management system (Laravel, Livewire, MySQL): role-based access control, normalized schema, admin dashboards. Final year project.
 - **[BlogApp](https://github.com/abrar840/BlogApp)** — Blogging app built with React, Inertia.js and Laravel.
+- **[netflixui](https://github.com/abrar840/netflixui)** · [live](https://netflixui-tau.vercel.app) — Pixel-level recreation of the Netflix landing page in plain HTML and CSS, responsive across 14 breakpoints, no frameworks. An early layout exercise, kept as a record.
 
 ## GitHub Stats
 
